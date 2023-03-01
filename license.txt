@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mechanical Hand WIP
+* source:	https://sketchfab.com/3d-models/mechanical-hand-wip-48db1bc8a29445f195e532d0674cf498
+* author:	uvee10 (https://sketchfab.com/uvee10)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mechanical Hand WIP" (https://sketchfab.com/3d-models/mechanical-hand-wip-48db1bc8a29445f195e532d0674cf498) by uvee10 (https://sketchfab.com/uvee10) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
